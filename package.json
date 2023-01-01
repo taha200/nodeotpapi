@@ -23,7 +23,7 @@
     "react-responsive-modal": "^4.0.1",
     "react-router-dom": "^4.2.2",
     "react-router-redux": "^5.0.0-alpha.9",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "react-spinners": "^0.5.4",
     "reactjs-popup": "^1.4.0",
     "reactstrap": "^7.1.0",
